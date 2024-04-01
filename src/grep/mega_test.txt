@@ -1,0 +1,275 @@
+  is 32 20
+! is 33 21
+" is 34 22
+# is 35 23
+$ is 36 24
+% is 37 25
+& is 38 26
+' is 39 27
+( is 40 28
+) is 41 29
+* is 42 2a
++ is 43 2b
+, is 44 2c
+- is 45 2d
+. is 46 2e
+/ is 47 2f
+0 is 48 30
+1 is 49 31
+2 is 50 32
+3 is 51 33
+4 is 52 34
+5 is 53 35
+6 is 54 36
+7 is 55 37
+8 is 56 38
+9 is 57 39
+: is 58 3a
+; is 59 3b
+< is 60 3c
+= is 61 3d
+> is 62 3e
+? is 63 3f
+@ is 64 40
+A is 65 41
+B is 66 42
+C is 67 43
+D is 68 44
+E is 69 45
+F is 70 46
+G is 71 47
+H is 72 48
+I is 73 49
+J is 74 4a
+K is 75 4b
+L is 76 4c
+M is 77 4d
+N is 78 4e
+O is 79 4f
+P is 80 50
+Q is 81 51
+R is 82 52
+S is 83 53
+T is 84 54
+U is 85 55
+V is 86 56
+W is 87 57
+X is 88 58
+Y is 89 59
+Z is 90 5a
+[ is 91 5b
+\ is 92 5c
+] is 93 5d
+^ is 94 5e
+_ is 95 5f
+` is 96 60
+a is 97 61
+b is 98 62
+c is 99 63
+d is 100 64
+e is 101 65
+f is 102 66
+g is 103 67
+h is 104 68
+i is 105 69
+j is 106 6a
+k is 107 6b
+l is 108 6c
+m is 109 6d
+n is 110 6e
+o is 111 6f
+p is 112 70
+q is 113 71
+r is 114 72
+s is 115 73
+t is 116 74
+u is 117 75
+v is 118 76
+w is 119 77
+x is 120 78
+y is 121 79
+z is 122 7a
+{ is 123 7b
+| is 124 7c
+} is 125 7d
+~ is 126 7e
+is 127 7f
+
+
+char:0
+char:0
+char:0
+
+
+char:0
+char:1 
+char:2 
+char:3 
+char:4 
+char:5 
+char:6 
+char:7 
+char:8 
+char:9
+char:10
+
+char:11 
+char:12 
+char:13
+char:14 
+char:15 
+char:16 
+char:17 
+char:18 
+char:19 
+char:20 
+char:21 
+char:22 
+char:23 
+char:24 
+char:25 
+char:26 
+char:27 
+char:28 
+char:29 
+char:30 
+char:31 
+char:32
+char:33 !
+char:34 "
+char:35 #
+char:36 $
+char:37 %
+char:38 &
+char:39 '
+char:40 (
+char:41 )
+char:42 *
+char:43 +
+char:44 ,
+char:45 -
+char:46 .
+char:47 /
+char:48 0
+char:49 1
+char:50 2
+char:51 3
+char:52 4
+char:53 5
+char:54 6
+char:55 7
+char:56 8
+char:57 9
+char:58 :
+char:59 ;
+char:60 <
+char:61 =
+char:62 >
+char:63 ?
+char:64 @
+char:65 A
+char:66 B
+char:67 C
+char:68 D
+char:69 E
+char:70 F
+char:71 G
+char:72 H
+char:73 I
+char:74 J
+char:75 K
+char:76 L
+char:77 M
+char:78 N
+char:79 O
+char:80 P
+char:81 Q
+char:82 R
+char:83 S
+char:84 T
+char:85 U
+char:86 V
+char:87 W
+char:88 X
+char:89 Y
+char:90 Z
+char:91 [
+char:92 \
+char:93 ]
+char:94 ^
+char:95 _
+char:96 `
+char:97 a
+char:98 b
+char:99 c
+char:100 d
+char:101 e
+char:102 f
+char:103 g
+char:104 h
+char:105 i
+char:106 j
+char:107 k
+char:108 l
+char:109 m
+char:110 n
+char:111 o
+char:112 p
+char:113 q
+char:114 r
+char:115 s
+char:116 t
+char:117 u
+char:118 v
+char:119 w
+char:120 x
+char:121 y
+char:122 z
+char:123 {
+char:124 |
+char:125 }
+char:126 ~
+char:127 
+
+
+	
+Lorem	ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+Shleppa
+Popa
+
+Hello
+
+LoreMe ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+
+
+
+
+
+test test 233876354!@#$%^&*()_**
+    $%^&
+
+
+
+
+hehe
+        ihhihi
+        ha  ha  ha          ha
+    &
+
+
+
+    52gfd
+ dfghj^&*( 8()  8978&*( 08  09
+
+        IHAGLNKS23^($^)=_+)#+()_Q
+

@@ -1,2 +1,0 @@
-# SimpleBashUtils
-cat and grep
